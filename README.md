@@ -4,3 +4,7 @@ Wallpapers separated in two categories
 	2-Portrait mode (Phones & Tablets)
 
 Enjoy! - Benji
+
+Fun thing to do!!!
+    - Clone The repository on your device, set the folder of your choice as the backgrounds folder and randomly change
+    background every x minute.
