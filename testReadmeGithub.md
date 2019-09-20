@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
-    <img src="readmeResources/logoPhoto.jpg" alt="Logo" width="80" height="80">
+    <img src="readmeResources/logoPhoto.jpg" alt="Logo" width="480" height="480">
   </a>
 
   <h3 align="center">Unsplash-Wallpapers</h3>
@@ -78,7 +78,7 @@ git pull
 
 <p align="center">
   <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
-    <img src="readmeResources/setupScreen.png" width="480" height="480">
+    <img src="readmeResources/setupScreen.png" >
   </a>
 
 
