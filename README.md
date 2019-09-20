@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
-    <img src="readmeResources/logoPhoto.jpg" alt="Logo" width="480" height="480">
+    <img src="readmeResources/logoPhoto.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Unsplash-Wallpapers</h3>
