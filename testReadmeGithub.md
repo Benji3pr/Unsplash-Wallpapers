@@ -7,8 +7,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 
 
 
@@ -41,7 +39,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-Examplescreen]]
+<p align="center">
+  <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
+    <img src="readmeResources/exampleScreen.png" >
+  </a>
+
+</p>
 
 Repository of wallpapers obtained from Unsplash.com, a free stock high-quiality photos website.
 
@@ -80,8 +83,5 @@ git pull
   <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
     <img src="readmeResources/setupScreen.png" >
   </a>
-
-
-
-
+  <h3 align="center">Setup on Manjaro Linux</h3>
 </p>
