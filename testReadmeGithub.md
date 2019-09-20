@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
-    <img src="images/logoPhoto.jpg" alt="Logo" width="80" height="80">
+    <img src="readmeResources/logoPhoto.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Unsplash-Wallpapers</h3>
@@ -48,7 +48,7 @@ Repository of wallpapers obtained from Unsplash.com, a free stock high-quiality 
 Wallpapers separated in two categories:
 * Landscape mode (Desktops)
 * Portrait mode (Phones & Tablets)
-* You should element DRY principles to the rest of your life :smile:
+
 
 
 <!-- GETTING STARTED -->
@@ -78,7 +78,7 @@ git pull
 
 <p align="center">
   <a href="https://github.com/Benji3pr/Unsplash-Wallpapers">
-    <img src="images/setupScreen.png" alt="Logo" width="480" height="480">
+    <img src="readmeResources/setupScreen.png" width="480" height="480">
   </a>
 
 
